@@ -2,7 +2,6 @@
 
 int main(void)
 {
-   printf("これはCの短いプログラムです");
-   
-   return 0;
+       printf("これはCの短いプログラムです");
+          return 0;
 }
